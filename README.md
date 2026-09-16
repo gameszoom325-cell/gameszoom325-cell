@@ -1,98 +1,137 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="KNOXXZONE Banner" width="100%">
+<img src="./assets/banner.gif" width="100%">
 </p>
 
-<h1 align="center">⚡ KNOXXZONE ⚡</h1>
+<h1 align="center">
+⚡ KNOXXZONE ⚡
+</h1>
 
-<h3 align="center">Ayush Singh</h3>
+<h3 align="center">
+Ayush Singh
+</h3>
 
 <p align="center">
-  AI/ML Student • Full Stack Developer • Minecraft Developer • Anime Editor
+AI/ML Student • Full Stack Developer • Minecraft Developer • Anime Editor
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;KNOXXZONE;Ayush+Singh;AI%2FML+Student;Full+Stack+Developer;Minecraft+Developer;Anime+Editor;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=850&lines=⚡+KNOXXZONE;Ayush+Singh;AI%2FML+Student;Full+Stack+Developer;Minecraft+Developer;Anime+Editor;Always+Learning...;Building+Cool+Stuff🚀"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anime%20Editor-FF4DA6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 💻 Terminal
 
-```javascript
-const ayush = {
-  alias: "KNOXXZONE",
-  name: "Ayush Singh",
+```bash
+> whoami
 
-  role: "AI/ML Student",
+Name        : Ayush Singh
+Alias       : KNOXXZONE
+Role        : AI/ML Student
 
-  currentlyLearning: [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Full Stack Development"
-  ],
+Status      : Building cool projects...
 
-  currentlyBuilding: [
-    "Smart Farmer Portal",
-    "Minecraft ACE SMP",
-    "Portfolio Website"
-  ],
-
-  hobbies: [
-    "Anime Editing",
-    "Gaming",
-    "Coding"
-  ]
-}
+Skills      :
+█████████░░ AI
+████████░░░ Web Dev
+██████████░ Minecraft
+███████░░░░ Editing
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Projects
 
 - 🌾 Smart Farmer Portal
-- ⚔️ Minecraft ACE SMP
+- ⚔️ ACE SMP Minecraft Server
 - 🤖 AI Projects
-- 🌐 Personal Portfolio
+- 🌐 Portfolio Website
+- 🎬 Anime Editing
 
 ---
 
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,mysql,git,github,vscode"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 🧠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gameszoom325-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameszoom325-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🔥 Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gameszoom325-cell&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gameszoom325-cell&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gameszoom325-cell&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📌 Featured
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌾 Smart Farmer Portal
+
+AI-powered farming website with multilingual support.
+
+</td>
+
+<td width="50%">
+
+### ⚔️ ACE SMP
+
+Custom Minecraft server with anime-inspired gameplay.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -100,34 +139,46 @@ const ayush = {
 
 <p align="center">
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/knoxxed1ts">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="#">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_ID">
+<a href="#">
 <img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 💬 Quote
 
-<p align="center">
+```cpp
+while(!success){
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+    learn();
 
-</p>
+    build();
+
+    repeat();
+
+}
+```
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=gameszoom325-cell&style=for-the-badge&color=blueviolet"/>
+
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=footer"/>
