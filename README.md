@@ -16,10 +16,6 @@
 
 ## ◈ SIGNAL // IDENTIFIED
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
 ### `> SYSTEM_PROFILE.exe`
 
 ```yaml
@@ -32,11 +28,6 @@ level: 01 / Undergraduate
 status: Building cool things...
 mission: Become one of the best AI Engineers.
 ```
-
-I am an AI/ML student and full-stack web developer with a thing for sharp ideas, polished code, and interfaces that feel like they came from tomorrow. I build modern web experiences, develop Minecraft worlds, edit anime with energy, and keep learning at full speed.
-
-    </td>
-    <td width="42%" valign="top">
 
 ### `> whoami`
 
@@ -54,11 +45,9 @@ KNOXXZONE
 ● BUILDING COOL THINGS
 ```
 
-<p align="center">⚡ <i>Code with intent. Design with imagination.</i> ⚡</p>
+I am an AI/ML student and full-stack web developer with a thing for sharp ideas, polished code, and interfaces that feel like they came from tomorrow. I build modern web experiences, develop Minecraft worlds, edit anime with energy, and keep learning at full speed.
 
-    </td>
-  </tr>
-</table>
+<p align="center">⚡ <i>Code with intent. Design with imagination.</i> ⚡</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI%2FML-ENTHUSIAST-7C3AED?style=flat-square&logo=openai&logoColor=white" />
@@ -69,14 +58,14 @@ KNOXXZONE
 
 ## ◈ FOCUS // ACTIVE
 
-<table>
-  <tr>
-    <td align="center" width="25%"><h3>🌾 Smart Farmer Portal</h3><sub>Technology for real-world impact</sub></td>
-    <td align="center" width="25%"><h3>⛏️ ACE SMP</h3><sub>Minecraft server development</sub></td>
-    <td align="center" width="25%"><h3>🪩 Portfolio</h3><sub>A digital home with personality</sub></td>
-    <td align="center" width="25%"><h3>🧠 AI Projects</h3><sub>Turning curiosity into systems</sub></td>
-  </tr>
-</table>
+<div align="center">
+
+🌾 **Smart Farmer Portal** · Technology for real-world impact  
+⛏️ **ACE SMP** · Minecraft server development  
+🪩 **Portfolio** · A digital home with personality  
+🧠 **AI Projects** · Turning curiosity into systems
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/NOW_BUILDING-4B0082?style=for-the-badge&logo=rocket&logoColor=00D9FF" />
@@ -85,17 +74,20 @@ KNOXXZONE
 
 ## ◈ SKILLS // DASHBOARD
 
-<div align="center">
+### `BUILD` · Programming
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Python Java C HTML CSS JavaScript" /></p>
 
-| DOMAIN | CORE ARSENAL | SIGNAL |
-|:--|:--|:--:|
-| **Programming** | <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Python Java C HTML CSS JavaScript" /> | `BUILD` |
-| **Full Stack** | <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="React Node.js Express" /> | `SHIP` |
-| **Data Layer** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /> | `STORE` |
-| **Creative Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma" /> | `CRAFT` |
-| **Intelligence** | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-00B8D9?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=flat-square&logo=googlegemini&logoColor=white" /> | `THINK` |
+### `SHIP` · Full Stack
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="React Node.js Express" /></p>
 
-</div>
+### `STORE` · Data Layer
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></p>
+
+### `CRAFT` · Creative Tools
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma" /></p>
+
+### `THINK` · Intelligence
+<p align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Machine_Learning-00B8D9?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=flat-square&logo=googlegemini&logoColor=white" alt="Prompt Engineering" /></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-16052D?style=for-the-badge&logo=python&logoColor=00D9FF" />
@@ -108,19 +100,12 @@ KNOXXZONE
 
 ## ◈ PROJECTS // LAUNCHPAD
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌾 SMART FARMER PORTAL
 `AI × Agriculture × Web`
 
 An intelligent platform concept focused on bringing useful, accessible digital tools closer to farmers.
 
 `PYTHON` `AI/ML` `WEB`
-
-</td>
-<td width="50%" valign="top">
 
 ### ⛏️ MINECRAFT ACE SMP
 `Community × Systems × Play`
@@ -129,11 +114,6 @@ Crafting a server experience where technical details disappear and the community
 
 `MINECRAFT` `DEVELOPMENT` `COMMUNITY`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🪩 PORTFOLIO WEBSITE
 `Design × Motion × Identity`
 
@@ -141,19 +121,12 @@ A personal digital space built to make clean code, visual stories, and experimen
 
 `HTML` `CSS` `JAVASCRIPT`
 
-</td>
-<td width="50%" valign="top">
-
 ### 🧠 AI EXPERIMENTS
 `Curiosity × Models × Momentum`
 
 > Learning by building — one practical AI project at a time.
 
 `OPENAI` `PROMPTS` `MACHINE LEARNING`
-
-</td>
-</tr>
-</table>
 
 ## ◈ GITHUB // TELEMETRY
 
