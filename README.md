@@ -41,7 +41,7 @@ I'm **Ayush Singh**, a first-year **B.Tech Computer Science student specialising
 - 🌱 Building foundations through projects, problem-solving, and open-source learning
 - 💡 I care about clean interfaces, useful products, and code that tells a clear story
 - 🎮 Away from the keyboard, you'll probably find me gaming or chasing the next challenge
-- 📫 Reach me at **YOUR_EMAIL@example.com**
+- 📫 Reach me at **090109ayush@gmail.comm**
 
 <br clear="right" />
 
