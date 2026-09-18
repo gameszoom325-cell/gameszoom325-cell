@@ -1,186 +1,257 @@
-<!--
-  AYUSH OS // GitHub Profile README
-  Replace every occurrence of YOUR_GITHUB_USERNAME with the username that owns
-  the profile repository. GitHub intentionally does not expose a Markdown
-  variable for the current profile owner.
--->
+<!-- ==================== KNOXXZONE // SYSTEM ONLINE ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,45:0a1f44,100:7c3aed&text=AYUSH%20OS&fontColor=67e8f9&fontSize=72&fontAlignY=38&desc=NEURAL%20INTERFACE%20%2F%2F%20VERSION%202.0&descAlignY=60&descSize=16&animation=twinkling" alt="AYUSH OS version 2.0" />
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:172554,75:4c1d95,100:06b6d4&height=220&section=header&text=KNOXXZONE&fontSize=62&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=AYUSH%20SINGH%20%2F%2F%20AI%20OPERATING%20SYSTEM&descAlignY=61&descSize=17&descColor=c4b5fd" alt="KNOXXZONE animated cyberpunk banner" />
+</a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=%5B+BOOTING+AYUSH+OS+...+%5D;%E2%9C%93+NEURAL+ENGINE+ONLINE;%E2%9C%93+AI+MODELS+LOADED;%E2%9C%93+GITHUB+UPLINK+ESTABLISHED;WELCOME%2C+COMMANDER." alt="Boot sequence" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=Initializing+JARVIS+interface...;AI%2FML+Student+%7C+Full+Stack+Developer;Building+digital+experiences+from+the+future;Code.+Create.+Compete.+Evolve." alt="Typing animation" />
+</a>
 
-<br/>
+<br />
 
-<a href="https://www.linkedin.com/in/ayush-singh-705a63397"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-071426?style=for-the-badge&logo=linkedin&logoColor=67e8f9&labelColor=071426" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/knoxed1ts"><img src="https://img.shields.io/badge/INSTAGRAM-%40knoxed1ts-071426?style=for-the-badge&logo=instagram&logoColor=c084fc&labelColor=071426" alt="Instagram" /></a>
-<a href="mailto:090109ayush@gmail.com"><img src="https://img.shields.io/badge/UPLINK-EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=071426" alt="Email Ayush" /></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=gameszoom325-cell&label=VISITORS&color=06b6d4&style=for-the-badge)](https://github.com/gameszoom325-cell)
+[![GitHub Followers](https://img.shields.io/github/followers/gameszoom325-cell?label=FOLLOWERS&style=for-the-badge&color=4c1d95&logo=github)](https://github.com/gameszoom325-cell?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/gameszoom325-cell?label=STARS&style=for-the-badge&color=0891b2&logo=github)](https://github.com/gameszoom325-cell?tab=stars)
 
 </div>
+
+<!-- ==================== JARVIS INTRODUCTION ==================== -->
+
+## `01 // JARVIS INTRODUCTION`
 
 ```text
-████████████████████████████████████████████████████████████
-BOOTING AYUSH OS...
-  [✓] Initializing Neural Engine       [✓] Loading Memory
-  [✓] Connecting to GitHub             [✓] Authenticating Visitor
-  [✓] Voice Module Ready               [✓] Holographic Display Online
-
-SYSTEM READY — Welcome to the interface.
+╭──────────────────────────────────────────────────────────────╮
+│ SYSTEM: KNOXXZONE ONLINE                                     │
+│ USER:   Ayush Singh                                          │
+│ CORE:   Artificial Intelligence • Web • Creative Technology │
+│ STATUS: Learning, building, and shipping from the future    │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&ring_color=22d3ee&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050816&stroke=1e3a5f&ring=22d3ee&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b" height="165" alt="GitHub streak" />
-</div>
+> Greetings, human. I am **Ayush Singh**, an AI/ML student and developer focused on creating intelligent systems, immersive interfaces, and powerful digital experiences.
 
-<br/>
+I am currently pursuing **B.Tech CSE (Artificial Intelligence & Machine Learning)** at **SRM Institute of Science and Technology**. My mission is to combine code, creativity, and curiosity into projects that feel one step ahead.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071426,100:111827&height=2" alt="" />
+<!-- ==================== ABOUT ME ==================== -->
 
-## ◈ AI PROFILE // IDENTIFICATION
+## `02 // ABOUT ME`
+
+<table>
+<tr>
+<td width="50%">
+
+- 🎓 1st Year B.Tech CSE student
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌐 Full Stack and Frontend Web Developer
+- 🧠 Learning Python and strengthening C fundamentals
+- 🎮 Gamer and competitive Valorant player
+- ⛏️ Minecraft developer
+- 🎬 Anime editor
+- 🌱 Open source learner
+
+</td>
+<td width="50%">
 
 ```yaml
 identity:
   name: Ayush Singh
-  status: ONLINE
-  level: First Year B.Tech Computer Science
-  specialization: Artificial Intelligence & Machine Learning
-  location: India
-  power_source: Coffee + Curiosity
-  mission: Build technology that matters.
+  alias: KNOXXZONE
+  username: gameszoom325-cell
+  college: SRM Institute of Science and Technology
+  focus:
+    - AI/ML
+    - Full Stack Development
+    - Creative Technology
+  operating_mode: BUILD_AND_LEARN
 ```
 
-> `JARVIS // STATUS:` I’m a student engineer learning to turn curious ideas into useful, beautiful systems — with full stack development, AI/ML, and futuristic interfaces at the core.
+</td>
+</tr>
+</table>
 
-## ◌ CORE STATUS // LIVE TELEMETRY
+<!-- ==================== TECH STACK ==================== -->
+
+## `03 // TECH STACK`
+
+### `LANGUAGES`
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### `TOOLS`
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
+### `FRAMEWORKS`
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+
+### `DATABASES`
+
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+### `AI & ML TECHNOLOGIES`
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=67e8f9)](https://openai.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)](https://www.tensorflow.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabcf)](https://numpy.org/)
+
+### `WEB DEVELOPMENT`
+
+```text
+Frontend      React • Next.js • Tailwind CSS • Responsive UI • Animation
+Backend       Node.js • Firebase • REST APIs
+Databases     MongoDB • MySQL
+Creative      Three.js • UI Systems • Visual Storytelling
+Workflow      Git • GitHub • VS Code • Vercel • Linux
+```
+
+<!-- ==================== CURRENTLY LEARNING ==================== -->
+
+## `04 // CURRENTLY LEARNING`
+
+- Machine learning foundations and model development
+- Advanced Python programming
+- Data structures and algorithms
+- Full stack application architecture
+- Open source contribution workflows
+- 3D web experiences with Three.js
+
+<!-- ==================== PROJECTS ==================== -->
+
+## `05 // PROJECTS`
+
+| Project | Description | Stack |
+|---|---|---|
+| [KNOXXZONE](https://github.com/gameszoom325-cell) | Personal developer identity and experimental hub | Web |
+| [Explore my repositories](https://github.com/gameszoom325-cell?tab=repositories) | Projects, experiments, and learning missions | Open Source |
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## `06 // GITHUB ANALYTICS`
 
 <div align="center">
 
-```text
-  GITHUB CONNECTED     ● ONLINE          AI CORE STABLE      ● ONLINE
-  LEARNING MODE        ● ACTIVE          MISSION PROTOCOL    ● ACTIVE
-  INTERNET UPLINK      ● READY           CURIOSITY ENGINE    ● MAXIMUM
-```
+<a href="https://github.com/gameszoom325-cell">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gameszoom325-cell&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&ring_color=06b6d4" alt="Ayush Singh's GitHub statistics" />
+</a>
+<a href="https://github.com/gameszoom325-cell">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameszoom325-cell&layout=compact&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" alt="Ayush Singh's top languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://streak-stats.demolab.com?user=gameszoom325-cell&theme=transparent&hide_border=true&ring=06b6d4&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=94a3b8" alt="Ayush Singh's GitHub streak" />
+</a>
+
+<br />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=gameszoom325-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</a>
 
 </div>
 
-```text
-01 // FULL STACK DEVELOPMENT   → Building the foundation, end to end.
-02 // AI & MACHINE LEARNING    → Training the mind behind the machine.
-03 // OPEN SOURCE              → Shipping, collaborating, learning in public.
-04 // UI/UX + THREE.JS          → Making the interface feel alive.
-```
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
-## ◈ SKILL TREE // CAPABILITY MATRIX
+## `07 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,threejs,vscode&theme=dark" alt="HTML CSS JavaScript React Node.js Python Java Git GitHub Three.js VS Code" />
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gameszoom325-cell&bg_color=050816&color=67e8f9&line=8b5cf6&point=22d3ee&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</a>
 
-<br/><br/>
+<br />
 
-```text
-                         ┌─── FRONTEND ─── React · UI/UX · Three.js
-              ┌──────────┤
-              │          └─── BACKEND ─── Node.js · APIs · Systems
-  AYUSH.OS ────┤
-              │          ┌─── INTELLIGENCE ─── Python · AI · Machine Learning
-              └──────────┤
-                         └─── TOOLING ─── Git · GitHub · Java
-```
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gameszoom325-cell&repo=gameszoom325-cell&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" alt="Featured KNOXXZONE repository" />
+</a>
 
 </div>
 
-## ◉ MISSION LOG // PROGRESSION
+<!-- ==================== CODING QUOTES ==================== -->
 
-```text
-LEVEL 01  [████████████]  COMPLETE   HTML · CSS · JavaScript
-LEVEL 02  [████████░░░░]  IN PROGRESS Python · Java · Git
-LEVEL 03  [████░░░░░░░░]  UNLOCKING  Machine Learning · Deep Learning · Cloud
-LEVEL 04  [░░░░░░░░░░░░]  FUTURE     Startup · Research · Open Source
-```
-
-## ◈ ACTIVE DOSSIERS // MISSION ARCHIVE
-
-> Replace these prototype dossiers with links to your actual repositories as you ship them.
-
-```text
-MISSION-001 // WEB INTERFACE         [ACTIVE]       Craft a fast, memorable web experience.
-MISSION-002 // INTELLIGENCE MODULE   [BUILDING]     Experiment with Python and ML models.
-MISSION-003 // OPEN SOURCE SIGNAL    [DEPLOYED]     Contribute, collaborate, improve.
-MISSION-004 // BLACK BOX PROJECT     [CLASSIFIED]   The next idea is loading…
-```
-
-## ◌ GITHUB INTELLIGENCE // VISUAL FEED
+## `08 // TRANSMISSION`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" height="175" alt="Top languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1&column=4" height="175" alt="GitHub trophies" />
+<a href="https://github.com/BetterThanTomorrow/calva">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Coding quote" />
+</a>
 
-<br/>
+<br />
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050816&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&area_color=0e7490&hide_border=true" alt="Contribution activity graph" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img width="94%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<a href="https://github.com/athul코딩/random-dev-quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random developer quote" />
+</a>
 
 </div>
 
-## ◍ COMMAND TERMINAL // INTERACTIVE SIMULATION
+<!-- ==================== SNAKE CONTRIBUTION ANIMATION ==================== -->
 
-```bash
-visitor@ayush-os:~$ help
-commands: about  skills  mission  contact  github  clear
-
-visitor@ayush-os:~$ whoami
-Ayush Singh — CS (AI & ML) student, builder, learner, future-focused.
-
-visitor@ayush-os:~$ contact
-linkedin  → linkedin.com/in/ayush-singh-705a63397
-instagram → instagram.com/knoxed1ts
-email     → 090109ayush@gmail.com
-
-visitor@ayush-os:~$ _
-```
-
-## ◈ PERSONAL LOG // OFF-DUTY SIGNALS
-
-`Valorant` · `Minecraft` · `Anime` · `Web Development` · `Artificial Intelligence` · `Cyber Security` · `Futuristic Interfaces`
+## `09 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0891b2&label=INTERFACE+VISITORS" alt="Profile views" />
-
-<br/><br/>
-
-```text
-CONNECTION TERMINATED
-Thanks for visiting AYUSH OS.
-See you in the next commit.
-Powered by curiosity. // © AYUSH SINGH
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,55:0a1f44,100:7c3aed" alt="" />
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://raw.githubusercontent.com/gameszoom325-cell/gameszoom325-cell/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+</a>
 
 </div>
 
-<!--
-  OPTIONAL INTEGRATIONS
-  Add these after the relevant services are configured:
-  • contribution snake: Platane/snk GitHub Action
-  • WakaTime: anuraghazra/github-readme-stats WakaTime card
-  • Spotify: novatorem/spotify-readme
-  • Discord: discord.c99.nl widget
-  • LeetCode / Codeforces: provider-specific profile cards
+<!-- ==================== CONNECT ==================== -->
 
-  GitHub README security limits:
-  JavaScript, Canvas, WebGL / Three.js, SpeechSynthesis, button click handlers,
-  and arbitrary inline SVG scripts do not run in GitHub-rendered READMEs.
--->
+## `10 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-KNOXXED1TS-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/knoxxed1ts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-705a63397)
+[![GitHub](https://img.shields.io/badge/GitHub-GAMESZOOM325--CELL-111827?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/gameszoom325-cell)
+
+</div>
+
+<!-- ==================== SUPPORT ==================== -->
+
+## `11 // SUPPORT THE SYSTEM`
+
+<div align="center">
+
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://img.shields.io/badge/Support%20KNOXXZONE-⭐%20Star%20a%20Repository-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="Support KNOXXZONE by starring a repository" />
+</a>
+
+<br />
+<br />
+
+`BUILD BOLDLY // LEARN CONSTANTLY // SHIP THE FUTURE`
+
+</div>
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:4c1d95,100:050816&height=120&section=footer" alt="Futuristic footer banner" />
+
+**© Ayush Singh · KNOXXZONE**
+
+</div>
