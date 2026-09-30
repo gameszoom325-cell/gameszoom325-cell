@@ -1,13 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:0B1120,100:312E81&text=KNOXXZONE&fontColor=00E5FF&fontSize=58&fontAlignY=38&desc=BUILDING%20WHAT%E2%80%99S%20NEXT&descAlignY=60&descColor=E2E8F0&animation=twinkling" width="100%" alt="KNOXXZONE — building what's next" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:03120B,45:0B1120,100:312E81&text=KNOXXZONE%20%2F%2F%20BOOT&fontColor=39FF88&fontSize=42&fontAlignY=38&desc=INITIALIZING%20AI%20CORE%E2%80%A6%20ACCESS%20GRANTED&descAlignY=60&descColor=B8FFD1&animation=twinkling" width="100%" alt="KNOXXZONE system boot banner" />
+
+```text
+> INITIALIZING KNOXXZONE SYSTEM.................[ OK ]
+> LOADING AI CORE...............................[ OK ]
+> CONNECTING TO GITHUB NETWORK..................[ OK ]
+> ACCESS GRANTED  ✓
+```
+
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="72%" alt="Green Matrix-style digital rain" />
+
+`SYSTEM ONLINE` &nbsp; `██████████` **100%**
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=450&color=39FF88&center=true&vCenter=true&width=620&height=38&lines=BOOT+SEQUENCE+COMPLETE;WELCOME+TO+AYUSH+SINGH%E2%80%99S+DIGITAL+UNIVERSE" alt="Animated system boot complete welcome message" />
+
+<br /><br />
 
 # ⚡ AYUSH SINGH ⚡
 
-### `AI/ML STUDENT` · `FULL STACK DEVELOPER` · `KNOXXZONE`
+### `KNOXXZONE` &nbsp; / &nbsp; `AI/ML ENGINEER IN TRAINING`
 
-<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=55&lines=AI%2FML+Student+%40+SRMIST;Full+Stack+Developer+%7C+Web+Developer;Minecraft+Developer+%7C+Gamer;Open+Source+Enthusiast+%7C+Always+Learning">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=55&lines=AI%2FML+Student+%40+SRMIST;Full+Stack+Developer+%7C+Web+Developer;Minecraft+Developer+%7C+Gamer;Open+Source+Enthusiast+%7C+Always+Learning" alt="Animated introduction: AI and ML student, full-stack developer, Minecraft developer, gamer, open-source enthusiast" />
+#### AI/ML Student&nbsp; · &nbsp;Full Stack Developer&nbsp; · &nbsp;Gamer&nbsp; · &nbsp;Minecraft Developer
+
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=550&color=00E5FF&center=true&vCenter=true&width=800&height=55&lines=ENGINEERING+WITH+AI;DESIGNING+FUTURISTIC+WEB+EXPERIENCES;BUILDING+FULL-STACK+PROJECTS;LEARNING.+SHIPPING.+REPEATING.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=550&color=00E5FF&center=true&vCenter=true&width=800&height=55&lines=ENGINEERING+WITH+AI;DESIGNING+FUTURISTIC+WEB+EXPERIENCES;BUILDING+FULL-STACK+PROJECTS;LEARNING.+SHIPPING.+REPEATING." alt="Animated introduction: engineering with AI, designing futuristic web experiences, building full-stack projects" />
 </a>
 
 <br />
@@ -37,32 +56,33 @@
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="72%" alt="Developer coding in a futuristic digital workspace" />
 </div>
 
 <div align="center">
 
-`SYSTEM STATUS` **ONLINE** &nbsp; ◈ &nbsp; `MINDSET` **BUILD · LEARN · REPEAT** &nbsp; ◈ &nbsp; `BRAND` **KNOXXZONE**
+`● AI SYSTEM : ONLINE` &nbsp; ◈ &nbsp; `● DEVELOPMENT : ACTIVE` &nbsp; ◈ &nbsp; `● LEARNING : RUNNING`
 
 </div>
 
 <details>
-<summary><b>⌁ Open the KNOXXZONE terminal</b></summary>
+<summary><b>⌁ Open the KNOXXZONE terminal dashboard</b></summary>
 <br />
 
 ```text
-+--------------------------------------------------------------+
-|  KNOXXZONE // PERSONAL BUILD ENVIRONMENT                     |
-+--------------------------------------------------------------+
-|  [ OK ]  Curiosity engine ...................... ONLINE      |
-|  [ OK ]  AI / ML learning pipeline ............. RUNNING     |
-|  [ OK ]  Full-stack toolkit .................... LOADED      |
-|  [ OK ]  New ideas ............................. LISTENING   |
-|  [ .. ]  Next great build ...................... INCOMING    |
-+--------------------------------------------------------------+
-|  > learn();  build();  share();  repeat();                    |
-+--------------------------------------------------------------+
++------------------------------------------------------------+
+| KNOXXZONE AI CORE // LIVE LEARNING DASHBOARD               |
++------------------------------------------------------------+
+| Coding       [##########]  BUILDING                       |
+| AI / ML      [######....]  LEARNING                       |
+| Web systems  [########..]  SHIPPING                       |
+| Curiosity    [##########]  ALWAYS ON                      |
++------------------------------------------------------------+
+| > learn();  build();  share();  repeat();                   |
++------------------------------------------------------------+
 ```
+
+*Focus indicators describe current interests—not measured skill scores.*
 
 </details>
 
@@ -75,11 +95,32 @@
 | **Product design** | What makes a complex tool feel simple and welcoming? |
 | **Open source** | Where can I contribute, learn, and make a useful difference? |
 
+<div align="center">
+
+```text
+              ┌───────────┐
+              │    AI     │
+              └─────┬─────┘
+                    │
+       ┌────────────┴────────────┐
+       │                         │
+┌──────▼──────┐           ┌──────▼──────┐
+│ FULL STACK  │ ────────  │   AI / ML   │
+└──────┬──────┘           └──────┬──────┘
+       └────────────┬────────────┘
+                    ▼
+              ┌───────────┐
+              │  FUTURE   │
+              └───────────┘
+```
+
+</div>
+
 ---
 
 <div align="center">
 
-## ◈ ABOUT ME ◈
+## 01 / ABOUT ME
 
 **Curiosity is my favorite programming language.**
 
@@ -95,7 +136,7 @@ I’m at the beginning of a long journey. There’s always another tool to under
 
 <div align="center">
 
-`01 / PROFILE` &nbsp; `02 / TOOLKIT` &nbsp; `03 / BUILDS` &nbsp; `04 / ACTIVITY` &nbsp; `05 / CONNECT`
+`01 / PROFILE` &nbsp; `02 / SKILLS` &nbsp; `03 / PROJECTS` &nbsp; `04 / AI JOURNEY` &nbsp; `05 / CONNECT`
 
 </div>
 
@@ -103,7 +144,7 @@ I’m at the beginning of a long journey. There’s always another tool to under
 
 <div align="center">
 
-## ◈ TECH ARSENAL ◈
+## 02 / TECH ARSENAL
 
 *Tools I use, study, and reach for while building.*
 
@@ -180,7 +221,7 @@ I’m at the beginning of a long journey. There’s always another tool to under
 
 <div align="center">
 
-## ◈ FEATURED BUILDS ◈
+## 03 / FEATURED BUILDS
 
 *Ideas become real when you ship them.*
 
@@ -226,24 +267,24 @@ A digital home for my work, interests, and experiments — designed to feel pers
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Future AI Projects
+### 🎮 Minecraft Development
 
-**Experiments in intelligent software**
+**Custom worlds, server ideas, and playful systems**
 
-I’m exploring ideas that connect machine learning with practical, human-centered products. More builds will appear here as they’re ready to share.
+Minecraft is one of my creative playgrounds: a place to explore customization, game mechanics, and community experiences. I’m growing this work as I learn.
 
-`MACHINE LEARNING` &nbsp; `PROTOTYPING` &nbsp; `IN PROGRESS`
+`MINECRAFT` &nbsp; `GAME DEVELOPMENT` &nbsp; `EXPLORING`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Future Game &amp; Minecraft Builds
+### 🤖 Future AI Projects
 
-**Playful systems, creative worlds**
+**Experiments in intelligent software**
 
-Game development and Minecraft are a fun space to explore mechanics, world-building, and interactive experiences. New experiments are on the horizon.
+I’m exploring ideas that connect machine learning with practical, human-centered products. New experiments will appear here as they’re ready to share.
 
-`GAME DEVELOPMENT` &nbsp; `MINECRAFT` &nbsp; `EXPLORING`
+`MACHINE LEARNING` &nbsp; `PROTOTYPING` &nbsp; `IN PROGRESS`
 
 </td>
 </tr>
@@ -261,7 +302,7 @@ Game development and Minecraft are a fun space to explore mechanics, world-build
 
 <div align="center">
 
-## ◈ GITHUB TELEMETRY ◈
+## 04 / GITHUB TELEMETRY
 
 *Every commit is another experiment. Here’s the public activity dashboard.*
 
@@ -307,7 +348,7 @@ Game development and Minecraft are a fun space to explore mechanics, world-build
 
 <div align="center">
 
-## ◈ CURRENT QUESTS ◈
+## 05 / AI JOURNEY &amp; CURRENT QUESTS
 
 | `01` | **Become an AI Engineer** — strengthen my foundations in AI and machine learning. |
 |:--:|:--|
@@ -326,7 +367,27 @@ Game development and Minecraft are a fun space to explore mechanics, world-build
 
 <div align="center">
 
-## ◈ SIGNALS FROM THE INTERNET ◈
+## 06 / MILESTONES &amp; ACHIEVEMENTS
+
+*The most important milestone is the next thing I learn and ship.*
+
+<br />
+
+| Signal | Journey |
+|:--|:--|
+| 🎓 **Education** | First-year B.Tech student at SRM Institute of Science and Technology |
+| 🧠 **Specialization** | Computer Science Engineering — Artificial Intelligence &amp; Machine Learning |
+| 🚀 **Hackathon** | Building LandWatch for the Smart India Hackathon |
+| 🌱 **Open source** | Learning through community projects and collaboration |
+| 🛠️ **Builder mindset** | Growing a portfolio through hands-on web, AI, and game-development experiments |
+
+</div>
+
+---
+
+<div align="center">
+
+## 07 / SIGNALS FROM THE INTERNET
 
 *Small sparks for the next build session.*
 
@@ -355,7 +416,7 @@ Game development and Minecraft are a fun space to explore mechanics, world-build
 
 <div align="center">
 
-## ◈ CONNECT WITH ME ◈
+## 08 / CONNECT WITH ME
 
 *Have an idea, opportunity, question, or a cool build to share? My inbox is open.*
 
@@ -391,7 +452,14 @@ Game development and Minecraft are a fun space to explore mechanics, world-build
 
 <div align="center">
 
-### `TRANSMISSION COMPLETE`
+### `SYSTEM STATUS : ONLINE`
+
+**AYUSH SINGH**  
+`KNOXXZONE`
+
+### Building the future with AI 🚀
+
+`END OF TRANSMISSION...`
 
 **Designed &amp; Built by Ayush Singh | KNOXXZONE**
 
